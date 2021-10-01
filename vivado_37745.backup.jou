@@ -2,8 +2,8 @@
 # Vivado v2016.4 (64-bit)
 # SW Build 1756540 on Mon Jan 23 19:11:19 MST 2017
 # IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
-# Start of session at: Thu Sep 30 19:00:30 2021
-# Process ID: 148113
+# Start of session at: Thu Sep 30 15:11:03 2021
+# Process ID: 37745
 # Current directory: /home/ecelrc/students/ooke/Desktop/Lab_3/Lab_3.runs/impl_1
 # Command line: vivado -log decoder.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source decoder.tcl -notrace
 # Log file: /home/ecelrc/students/ooke/Desktop/Lab_3/Lab_3.runs/impl_1/decoder.vdi
